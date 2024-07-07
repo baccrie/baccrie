@@ -40,4 +40,4 @@ I am a passionate Backend Developer with a strong background in Civil Engineerin
 ## Contact Me
 
 - **Email:** bakarerilwan1@gmail.com
-- **LinkedIn:** [Rilwan Bakare](https://www.linkedin.com/in/rilwan-bakare)
+- **LinkedIn:** [Rilwan Bakare](https://www.linkedin.com/in/rilwan-bakare-7b98b91a6/)
