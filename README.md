@@ -25,7 +25,7 @@ I am a passionate Backend Developer with a strong background in Civil Engineerin
 - Developed a full-stack e-commerce website using Python with Flask framework for the backend, HTML/CSS for the frontend, and MySQL for database management.
 - Implemented features such as user authentication, product catalog, shopping cart, and order processing.
 
-### [Locale API](https://github.com/baccrie/Capstone-Portfolio-Project)
+### [Locale API](https://github.com/baccrie/Capstone-Portfolio-Project-at-ALTSchool-Africa)
 - Designed a RESTful API using ExpressJS with Node.js runtime.
 - Locale is a developer tool providing geographical information about Nigeria's regions, states, and local government areas (LGAs).
 - Implemented authentication, authorization, caching with Redis, and documentation using Swagger UI.
